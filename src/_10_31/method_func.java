@@ -1,4 +1,4 @@
-package org.livingcoding.d_10_31;
+package _10_31;
 
 public class method_func {
     public static void numbering(int j){
